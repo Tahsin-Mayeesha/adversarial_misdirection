@@ -1,0 +1,7 @@
+datasets
+huggingface_hub
+pillow
+openai
+pandas
+openpyxl
+jupyter
